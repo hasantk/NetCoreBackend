@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\90544\\Desktop\\MyProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\90544\\Documents\\GitHub\\NetCoreBackend\\MyProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\90544\\Desktop\\MyProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\NetCoreBackend\\MyProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\90544\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\90544\\Desktop\\MyProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\90544\\Documents\\GitHub\\NetCoreBackend\\MyProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90544\\Desktop\\MyProject\\Core\\Core.csproj": {}
+    "C:\\Users\\90544\\Documents\\GitHub\\NetCoreBackend\\MyProject\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90544\\Desktop\\MyProject\\Core\\Core.csproj": {
+    "C:\\Users\\90544\\Documents\\GitHub\\NetCoreBackend\\MyProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90544\\Desktop\\MyProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\90544\\Documents\\GitHub\\NetCoreBackend\\MyProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\90544\\Desktop\\MyProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\NetCoreBackend\\MyProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\90544\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90544\\Desktop\\MyProject\\Core\\obj\\",
+        "outputPath": "C:\\Users\\90544\\Documents\\GitHub\\NetCoreBackend\\MyProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -72,6 +72,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
