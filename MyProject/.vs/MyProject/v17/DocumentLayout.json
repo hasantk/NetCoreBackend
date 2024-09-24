@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90544\\Desktop\\MyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4EDA39-A424-4BB5-876A-34239CCD2002}|Core\\Core.csproj|c:\\users\\90544\\desktop\\myproject\\core\\utilities\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4EDA39-A424-4BB5-876A-34239CCD2002}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4EDA39-A424-4BB5-876A-34239CCD2002}|Core\\Core.csproj|c:\\users\\90544\\desktop\\myproject\\core\\utilities\\security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4EDA39-A424-4BB5-876A-34239CCD2002}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\90544\\Desktop\\MyProject\\Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "ToolTip": "C:\\Users\\90544\\Desktop\\MyProject\\Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:20:59.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccessToken.cs",
+              "DocumentMoniker": "C:\\Users\\90544\\Desktop\\MyProject\\Core\\Utilities\\Security\\JWT\\AccessToken.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\AccessToken.cs",
+              "ToolTip": "C:\\Users\\90544\\Desktop\\MyProject\\Core\\Utilities\\Security\\JWT\\AccessToken.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\AccessToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:19:10.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
