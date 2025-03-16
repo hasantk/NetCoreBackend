@@ -169,3 +169,4 @@ C:\Users\90544\Documents\GitHub\NetCoreBackend\MyProject\WebAPI\obj\Debug\net8.0
 C:\Users\90544\Documents\GitHub\NetCoreBackend\MyProject\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\90544\Documents\GitHub\NetCoreBackend\MyProject\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
 C:\Users\90544\Documents\GitHub\NetCoreBackend\MyProject\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\90544\Documents\GitHub\NetCoreBackend\MyProject\WebAPI\bin\Debug\net8.0\FluentAssertions.dll
